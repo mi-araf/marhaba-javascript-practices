@@ -1,0 +1,9 @@
+// তোর একটা প্রিয় জায়গা আছে, যার নাম favPlace। তার মধ্যে কিছু তথ্য আছে। যেমন, name: "Cox's Bazar", distance: "400km", আর popularity: "high" bracket notation দিয়ে popularity প্রপার্টি console log কর।
+
+const favPlace = {
+    name: "cos's Bazar",
+    distance: '400km',
+    popularity: "high"
+}
+console.log(favPlace['popularity']);
+console.log(favPlace['distance']);
